@@ -1,5 +1,3 @@
-# end-to-end-project-qna
-
 # Hugging Face Question Answering Model
 
 This project demonstrates a question-answering system using Hugging Face's transformer models. The system is capable of answering questions based on a given context by leveraging pre-trained models and fine-tuning them on the SQuAD dataset.
